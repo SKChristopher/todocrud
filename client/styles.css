@@ -1,0 +1,11 @@
+body {
+  background: #bada55;
+}
+
+input[type="submit"] {
+  background: #fab;
+}
+
+button {
+    background: #bad;
+}
